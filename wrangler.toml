@@ -2,4 +2,4 @@ name = "cloudflareworker-ip"
 main = "./src/cf.js"
 compatibility_date = "2023-12-30"
 # This is specfic to me, you need to change this.
-account_id = "7f8f8671d8d71a65ef793b32ca8231c2"
+account_id = "6b746c8405e74b40b4c5936226aa8d7b"
